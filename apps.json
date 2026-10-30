@@ -34,6 +34,15 @@
       "versionName": "0.9.3",
       "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/yavoyllegando-v0.9.3/yavoyllegando.apk",
       "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.yavoyllegando.webp"
+    },
+    {
+      "packageName": "com.gggp.controldegastos",
+      "name": "Control de Gastos",
+      "description": "Registra y controla tus gastos.",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/control-de-gastos-v1.0/control-de-gastos.apk",
+      "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.controldegastos.png"
     }
   ]
 }
