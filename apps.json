@@ -14,15 +14,8 @@
       "description": "Versión para Android TV.",
       "versionCode": 1,
       "versionName": "1.0",
+      "tvOnly": true,
       "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/celular-teclado-tv-v1.0/celular-teclado-tv.apk"
-    },
-    {
-      "packageName": "io.freemytv",
-      "name": "Free My TV",
-      "description": "Descripción corta de la app.",
-      "versionCode": 1,
-      "versionName": "1.0",
-      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/free-my-tv-v1.0/free-my-tv.apk"
     }
   ]
 }
