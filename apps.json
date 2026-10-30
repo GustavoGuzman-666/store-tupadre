@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "packageName": "com.gggp.celularteclado",
+      "name": "Celular Teclado",
+      "description": "Versión para el celular.",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/tienda-apps/releases/download/celular-teclado-v1.0/celular-teclado.apk"
+    },
+    {
+      "packageName": "com.gggp.celularteclado.tv",
+      "name": "Celular Teclado TV",
+      "description": "Versión para Android TV.",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/tienda-apps/releases/download/celular-teclado-tv-v1.0/celular-teclado-tv.apk"
+    },
+    {
+      "packageName": "io.freemytv",
+      "name": "Free My TV",
+      "description": "Descripción corta de la app.",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/tienda-apps/releases/download/free-my-tv-v1.0/free-my-tv.apk"
+    }
+  ]
+}
