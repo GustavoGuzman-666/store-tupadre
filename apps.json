@@ -7,6 +7,22 @@
       "versionCode": 1,
       "versionName": "1.0",
       "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/celular-teclado-v1.0/celular-teclado.apk"
+    },
+    {
+      "packageName": "com.gggp.tabladigitalcalderas",
+      "name": "Tabla Digital Calderas",
+      "description": "Tabla digital para calderas.",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/tabla-digital-calderas-v1.0/tabla-digital-calderas.apk"
+    },
+    {
+      "packageName": "com.gggp.yavoyllegando",
+      "name": "YaVoyLlegando App",
+      "description": "Avisa cuando estás por llegar.",
+      "versionCode": 12,
+      "versionName": "0.9.3",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/yavoyllegando-v0.9.3/yavoyllegando.apk"
     }
   ]
 }
