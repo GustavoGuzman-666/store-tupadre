@@ -1,6 +1,14 @@
 {
   "apps": [
     {
+      "packageName": "com.gggp.storetupadre",
+      "name": "Store TuPadre",
+      "description": "Esta tienda. Se actualiza a sí misma.",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/store-tupadre-v1.0/store-tupadre.apk"
+    },
+    {
       "packageName": "com.gggp.celularteclado",
       "name": "Celular Teclado",
       "description": "Versión para el celular.",
