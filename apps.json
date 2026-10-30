@@ -7,15 +7,6 @@
       "versionCode": 1,
       "versionName": "1.0",
       "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/celular-teclado-v1.0/celular-teclado.apk"
-    },
-    {
-      "packageName": "com.gggp.celularteclado.tv",
-      "name": "Celular Teclado TV",
-      "description": "Versión para Android TV.",
-      "versionCode": 1,
-      "versionName": "1.0",
-      "tvOnly": true,
-      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/celular-teclado-tv-v1.0/celular-teclado-tv.apk"
     }
   ]
 }
