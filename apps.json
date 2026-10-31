@@ -4,9 +4,9 @@
       "packageName": "com.gggp.storetupadre",
       "name": "Store TuPadre",
       "description": "Esta tienda. Se actualiza a sí misma.",
-      "versionCode": 7,
-      "versionName": "1.6",
-      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/store-tupadre-v1.6/store-tupadre.apk"
+      "versionCode": 9,
+      "versionName": "1.8",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/store-tupadre-v1.8/store-tupadre.apk"
     },
     {
       "packageName": "com.gggp.celularteclado",
@@ -30,10 +30,19 @@
       "packageName": "com.gggp.controldegastos",
       "name": "Control de Gastos",
       "description": "Registra y controla tus gastos.",
-      "versionCode": 1,
-      "versionName": "1.0",
-      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/control-de-gastos-v1.0/control-de-gastos.apk",
+      "versionCode": 2,
+      "versionName": "1.1",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/control-de-gastos-v1.1/control-de-gastos.apk",
       "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.controldegastos.png"
+    },
+    {
+      "packageName": "com.gggp.yavoyllegando",
+      "name": "YaVoyLlegando App",
+      "description": "Versión de prueba en Play Store.",
+      "versionCode": 0,
+      "apkUrl": "",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gggp.yavoyllegando&hl=en-US&ah=MaUcZ20_BJXbROaKJnb8WaTHLTE",
+      "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.yavoyllegando.webp"
     }
   ]
 }
