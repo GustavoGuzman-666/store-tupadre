@@ -46,11 +46,12 @@
     },
     {
       "packageName": "com.gggp.controlbombillastv",
-      "name": "Controles",
+      "name": "Control Bombilla TV",
       "description": "Bombillas, TV y Xbox desde el celular.",
       "versionCode": 1,
       "versionName": "0.1.0",
-      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/controles-v0.1.0/controles.apk"
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/controles-v0.1.0/controles.apk",
+      "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.controlbombillastv.png"
     }
   ]
 }
