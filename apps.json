@@ -43,6 +43,14 @@
       "apkUrl": "",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gggp.yavoyllegando&hl=en-US&ah=MaUcZ20_BJXbROaKJnb8WaTHLTE",
       "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.yavoyllegando.png"
+    },
+    {
+      "packageName": "com.gggp.controlbombillastv",
+      "name": "Controles",
+      "description": "Bombillas, TV y Xbox desde el celular.",
+      "versionCode": 1,
+      "versionName": "0.1.0",
+      "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/controles-v0.1.0/controles.apk"
     }
   ]
 }
