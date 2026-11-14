@@ -30,9 +30,9 @@
       "packageName": "com.gggp.controldegastos",
       "name": "Control de Gastos",
       "description": "Registra y controla tus gastos.",
-      "versionCode": 5,
-      "versionName": "1.4",
-      "apkUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/apks/control-de-gastos-v1.4.apk",
+      "versionCode": 6,
+      "versionName": "1.5",
+      "apkUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/apks/control-de-gastos-v1.5.apk",
       "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.controldegastos.png"
     },
     {
