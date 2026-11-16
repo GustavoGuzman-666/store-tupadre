@@ -30,9 +30,9 @@
       "packageName": "com.gggp.controldegastos",
       "name": "Control de Gastos",
       "description": "Registra y controla tus gastos.",
-      "versionCode": 9,
-      "versionName": "1.8",
-      "apkUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/apks/control-de-gastos-v1.8.apk",
+      "versionCode": 10,
+      "versionName": "1.9",
+      "apkUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/apks/control-de-gastos-v1.9.apk",
       "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.controldegastos.png"
     },
     {
@@ -48,7 +48,7 @@
       "packageName": "com.gggp.controlbombillastv",
       "name": "Control bombillas TV",
       "description": "Bombillas, TV y Xbox desde el celular.",
-      "versionCode": 9,
+      "versionCode": 10,
       "versionName": "0.7.0",
       "apkUrl": "https://github.com/GustavoGuzman-666/store-tupadre/releases/download/controles-v0.7.0/controles.apk",
       "iconUrl": "https://raw.githubusercontent.com/GustavoGuzman-666/store-tupadre/main/icons/com.gggp.controlbombillastv.png"
